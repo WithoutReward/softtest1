@@ -19,4 +19,6 @@ public class TriangleTest {
         String type = triangle.classify(3, 4, 6);
         assertEquals("不等边三角形", type);
     }
+
+
 }
